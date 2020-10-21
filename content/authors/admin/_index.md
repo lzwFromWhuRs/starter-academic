@@ -58,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jackie.zw.liu@connect.polyu.hk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zhewei LIU (刘哲维) is a phd candidate from The Hong Kong Polytechnic University, with research interest in spatial big data analytics, volunteered geographic information, human mobility, and a broader application of artificial intelligence in geography. Besides research, he is also enthusiastic about mental and physical training and holds the opinion that few things can not be attained by combining konwledge and self-discipline. 
