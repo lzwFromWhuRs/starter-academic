@@ -92,7 +92,7 @@ email = "jackie.zw.liu@connect.polyu.hk"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "ZN607,Block Z, The Hong Kong Polytechnic University, 11 Yuk Choi Rd, Hung Hom", city = "Hong Kong",  country = "PR China"}
+address = {street = "Room ZN607, Block Z, The Hong Kong Polytechnic University, 11 Yuk Choi Rd, Hung Hom", city = "Hong Kong",  country = "PR China"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
