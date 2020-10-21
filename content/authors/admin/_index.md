@@ -15,7 +15,7 @@ role: PHD Candidate
 # Organizations/Affiliations
 organizations:
 - name: The Hong Kong Polytechnic University
-  url: ""
+  url: "https://www.polyu.edu.hk/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include spatial big data analytics, volunteered geographic information, human mobility.
