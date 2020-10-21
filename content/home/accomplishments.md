@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Outstanding Graduates of Wuhan University (10%)"
   url = ""
   # certificate_url = "https://www.coursera.org"
-  date_start = "2015-06-01"
-  date_end = ""
+  # date_start = "2015-06-01"
+  # date_end = ""
   description = ""
 
 [[item]]
