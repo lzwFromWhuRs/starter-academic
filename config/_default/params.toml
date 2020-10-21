@@ -103,7 +103,7 @@ coordinates = {latitude = "22.3039", longitude = "114.1797"}
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday-Saturday 8:30 to 20:00"]
+office_hours = ["Email for Appointment"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
