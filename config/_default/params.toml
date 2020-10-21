@@ -96,7 +96,7 @@ address = {street = "Room ZS1010, Block Z, The Hong Kong Polytechnic University,
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "22.3039", longitude = "114.1797"}
+coordinates = {latitude = "22.306535", longitude = "114.179327"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
