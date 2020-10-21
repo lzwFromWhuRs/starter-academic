@@ -21,43 +21,42 @@ date_format = "January 2006"
 [[item]]
   organization = "Wuhan University"
   organization_url = "https://en.whu.edu.cn/"
-  title = "Outstanding Graduates of Wuhan University (10%)"
+  title = "Outstanding Graduates of Wuhan University"
   # url = ""
   # certificate_url = "https://www.coursera.org"
   date_start = "2015-06-01"
   date_end = ""
-  description = ""
+  description = "10% students"
 
 [[item]]
   organization = "Wuhan University"
   organization_url = "https://en.whu.edu.cn/"
-  title = "Annual Outstanding Students of Wuhan University, three times (2012, 2013, 2014) (10%)"
+  title = "Annual Outstanding Students of Wuhan University, three times (2012, 2013, 2014)"
   # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   # certificate_url = "https://www.edx.org"
   date_start = "2015-05-01"
   date_end = ""
-  description = ""
+  description = "10% students"
   
-
 [[item]]
   organization = "Wuhan University"
   organization_url = "https://en.whu.edu.cn/"
-  title = "Second Honor Scholarship of Wuhan University, 2014 (10%)"
+  title = "Second Honor Scholarship of Wuhan University, 2014"
   # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   # certificate_url = "https://www.edx.org"
   date_start = "2014-09-01"
   date_end = ""
-  description = ""
+  description = "10% students"
 
 [[item]]
   organization = "Wuhan University"
   organization_url = "https://en.whu.edu.cn/"
-  title = "Second Honor Scholarship of Wuhan University,2013 (10%)"
+  title = "Second Honor Scholarship of Wuhan University,2013"
   # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   # certificate_url = "https://www.edx.org"
   date_start = "2013-09-01"
   date_end = ""
-  description = ""
+  description = "10% students"
 
 
 [[item]]
@@ -78,6 +77,6 @@ date_format = "January 2006"
   # certificate_url = "https://www.edx.org"
   date_start = "2012-09-01"
   date_end = ""
-  description = ""
+  description = "2% students"
 
 +++
