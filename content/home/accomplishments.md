@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2, 2006"
+date_format = "January 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -34,7 +34,7 @@ date_format = "January 2, 2006"
   title = "Annual Outstanding Students of Wuhan University, three times (2012, 2013, 2014) (10%)"
   # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   # certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  date_start = "2015-05-01"
   date_end = ""
   description = ""
   
@@ -42,12 +42,23 @@ date_format = "January 2, 2006"
 [[item]]
   organization = "Wuhan University"
   organization_url = "https://en.whu.edu.cn/"
-  title = "Second Honor Scholarship of Wuhan University, twice (2013, 2014) (10%)"
+  title = "Second Honor Scholarship of Wuhan University, 2014 (10%)"
   # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   # certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  date_start = "2014-09-01"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "Wuhan University"
+  organization_url = "https://en.whu.edu.cn/"
+  title = "Second Honor Scholarship of Wuhan University,2013 (10%)"
+  # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  # certificate_url = "https://www.edx.org"
+  date_start = "2013-09-01"
+  date_end = ""
+  description = ""
+
 
 [[item]]
   organization = "Wuhan University"
@@ -55,17 +66,17 @@ date_format = "January 2, 2006"
   title = "Xijie Special Scholarship"
   # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   # certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  date_start = "2012-09-01"
   date_end = ""
   description = ""
 
 [[item]]
   organization = "Wuhan University"
   organization_url = "https://en.whu.edu.cn/"
-  title = "First Honor Scholarship of Wuhan University, 2012 (2%)"
+  title = "First Honor Scholarship of Wuhan University, 2012"
   # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   # certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  date_start = "2012-09-01"
   date_end = ""
   description = ""
 
