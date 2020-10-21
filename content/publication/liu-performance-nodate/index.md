@@ -1,6 +1,6 @@
 ---
 title: "Performance and robustness analysis of origin detection methods with geo-tagged social media data"
-authors: "Liu Zhewei"
+authors: {Liu, Zhewei and Zhang, Anshu and Yao, Yepeng and Shi, Wenzhong and Huang, Xiao and Shen, Xiaoqi}
 #- admin
 #- Robert Ford
 #date: "2009-12-23T00:00:00Z"
