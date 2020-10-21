@@ -1,7 +1,7 @@
 ---
 title: "Performance and robustness analysis of origin detection methods with geo-tagged social media data"
 authors: "Liu Zhewei"
-- admin
+#- admin
 #- Robert Ford
 #date: "2009-12-23T00:00:00Z"
 doi: ""
