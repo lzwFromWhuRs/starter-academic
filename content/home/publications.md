@@ -46,7 +46,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  color = "navy"
+  # color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -57,7 +57,7 @@ subtitle = ""
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true  
+  # text_color_light = true  
   
 [advanced]
  # Custom CSS. 
