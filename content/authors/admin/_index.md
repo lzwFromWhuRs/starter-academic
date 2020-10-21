@@ -45,12 +45,12 @@ social:
 - icon: weibo
   icon_pack: fab
   link: https://weibo.com/u/2887403240
-- icon: cv
+- icon: github
   icon_pack: fab
-  link: files/cv.pdf # https://github.com/lzwFromWhuRs
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/lzwFromWhuRs
+- icon: file-pdf
+  icon_pack: ai
+  link: files/LIUZhewei_CV.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
