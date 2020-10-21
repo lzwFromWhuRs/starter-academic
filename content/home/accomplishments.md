@@ -21,10 +21,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Wuhan University"
   organization_url = "https://en.whu.edu.cn/"
-  title = "•	Outstanding Graduates of Wuhan University (10%)"
+  title = "Outstanding Graduates of Wuhan University (10%)"
   url = ""
   # certificate_url = "https://www.coursera.org"
-  date_start = "2015"
+  date_start = "2015-06-01"
   date_end = ""
   description = ""
 
