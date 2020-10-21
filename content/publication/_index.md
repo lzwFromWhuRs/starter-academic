@@ -1,7 +1,8 @@
 ---
-title: Towards Detecting Social Events by Mining Geographical Patterns with VGI Data
-date: 2018
-publication: ISPRS International Journal of Geo-Information
+title: My Publications
+
+
+view: 4
 # View.
 #   1 = List
 #   2 = Compact
