@@ -22,11 +22,11 @@ date_format = "Jan 2006"
   organization = "Wuhan University"
   organization_url = "https://en.whu.edu.cn/"
   title = "Outstanding Graduates of Wuhan University (10%)"
-  url = ""
+  # url = ""
   # certificate_url = "https://www.coursera.org"
   # date_start = "2015-06-01"
   # date_end = ""
-  description = ""
+  # description = ""
 
 [[item]]
   organization = "Wuhan University"
@@ -35,8 +35,8 @@ date_format = "Jan 2006"
   # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   # certificate_url = "https://www.edx.org"
   # date_start = "2018-03-01"
-  date_end = ""
-  description = ""
+  # date_end = ""
+  # description = ""
   
 
 [[item]]
@@ -46,8 +46,8 @@ date_format = "Jan 2006"
   # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   # certificate_url = "https://www.edx.org"
   # date_start = "2018-03-01"
-  date_end = ""
-  description = ""
+  # date_end = ""
+  # description = ""
 
 [[item]]
   organization = "Wuhan University"
@@ -56,8 +56,8 @@ date_format = "Jan 2006"
   # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   # certificate_url = "https://www.edx.org"
   # date_start = "2018-03-01"
-  date_end = ""
-  description = ""
+  # date_end = ""
+  # description = ""
 
 [[item]]
   organization = "Wuhan University"
@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   # certificate_url = "https://www.edx.org"
   # date_start = "2018-03-01"
-  date_end = ""
-  description = ""
+  # date_end = ""
+  # description = ""
 
 +++
