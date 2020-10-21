@@ -45,9 +45,9 @@ social:
 - icon: weibo
   icon_pack: fab
   link: https://weibo.com/u/2887403240
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/lzwFromWhuRs
+- icon: github
+  icon_pack: fab
+  link: files/cv.pdf # https://github.com/lzwFromWhuRs
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
