@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,54 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Wuhan University"
+  organization_url = "https://en.whu.edu.cn/"
+  title = "•	Outstanding Graduates of Wuhan University (10%)"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  # certificate_url = "https://www.coursera.org"
+  date_start = "2015"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Wuhan University"
+  organization_url = "https://en.whu.edu.cn/"
+  title = "Annual Outstanding Students of Wuhan University, three times (2012, 2013, 2014) (10%)"
+  # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  # certificate_url = "https://www.edx.org"
+  # date_start = "2018-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
   
+
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  organization = "Wuhan University"
+  organization_url = "https://en.whu.edu.cn/"
+  title = "Second Honor Scholarship of Wuhan University, twice (2013, 2014) (10%)"
+  # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  # certificate_url = "https://www.edx.org"
+  # date_start = "2018-03-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Wuhan University"
+  organization_url = "https://en.whu.edu.cn/"
+  title = "Xijie Special Scholarship"
+  # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  # certificate_url = "https://www.edx.org"
+  # date_start = "2018-03-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Wuhan University"
+  organization_url = "https://en.whu.edu.cn/"
+  title = "First Honor Scholarship of Wuhan University, 2012 (2%)"
+  # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  # certificate_url = "https://www.edx.org"
+  # date_start = "2018-03-01"
+  date_end = ""
   description = ""
 
 +++
