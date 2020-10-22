@@ -17,8 +17,8 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Geographical Information Science*, 2020"
-publication_short: "_International Journal of Geographical Information Science_, _2020_"
+publication: "International Journal of Geographical Information Science, 2020"
+publication_short: "**_International Journal of Geographical Information Science_**, _2020_"
 
 selected: true
 
