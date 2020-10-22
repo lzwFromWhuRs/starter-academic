@@ -1,8 +1,10 @@
 ---
 title: "An example journal article"
 authors:
-- admin
-- <b> Robert Ford <b>
+- "*LIU Zhewei*"
+- "*Robert Ford**"
+
+
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
