@@ -1,8 +1,10 @@
 ---
 title: "An example journal article"
-authors:
-- "*LIU Zhewei*"
-- "**Robert Ford**"
+
+authors = ["Jian Xie", "Zixiao Ma", "Kaveh Dehghanpour", "Zhaoyu Wang", "__**Yishen Wang**__", "Ruisheng Diao", "Di Shi"]
+# authors:
+# - "*LIU Zhewei*"
+# - "**Robert Ford**"
 
 
 # author_notes:
