@@ -27,7 +27,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*nternational Journal of Geographical Information Science*, 33(12): 2337-2362"
+publication: "*International Journal of Geographical Information Science*, 33(12): 2337-2362"
 publication_short: "*International Journal of Geographical Information Science*, 33(12): 2337-2362"
 
 
