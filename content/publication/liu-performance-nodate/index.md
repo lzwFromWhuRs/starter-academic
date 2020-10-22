@@ -1,9 +1,10 @@
 ---
 title: "Performance and robustness analysis of origin detection methods with geo-tagged social media data"
-authors:  ["  **Zhewei Liu**  "]
+authors:  ["__**Zhewei Liu**__"]
 # ["Zhewei Liu", "Yishen Wang", "Jianhui Wang", "Siqi Wang", "Di Shi"]
 #- Liu Zhewei
 #- Zhang Anshu
+
 
 #date: "2009-12-23T00:00:00Z"
 doi: ""
