@@ -1,8 +1,8 @@
 ---
 title: "An example journal article"
-authors:
-- "*LIU Zhewei*"
-- "*Robert Ford**"
+authors: LIU Zhewei
+#- "*LIU Zhewei*"
+#- "**Robert Ford**"
 
 
 author_notes:
