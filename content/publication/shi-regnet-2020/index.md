@@ -4,7 +4,7 @@ title: "RegNet: a neural network model for predicting regional desirability with
 authors:
 - Wenzhong Shi
 - admin
-- "***"
+- "*1**"
 - Zhenlin An
 - Pengfei Chen
 
