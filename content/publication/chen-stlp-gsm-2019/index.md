@@ -2,7 +2,7 @@
 title: "STLP-GSM: a method to predict future locations of individuals based on geotagged social media data"
 authors:
 - Pengfei Chen
-- Wenzhong Shi*
+- Wenzhong Shi
 - Xiaolin Zhou
 - admin
 - Xuandi Fu

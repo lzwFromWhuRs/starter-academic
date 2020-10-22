@@ -3,7 +3,7 @@ title: "Towards Detecting Social Events by Mining Geographical Patterns with VGI
 authors:
 - admin
 - Xiaolin Zhou
-- Wenzhong Shi*
+- Wenzhong Shi
 - Anshu Zhang
 
 

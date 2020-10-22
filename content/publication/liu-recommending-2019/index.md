@@ -3,7 +3,7 @@ title: "Recommending attractive thematic regions by semantic community detection
 authors:
 - admin
 - Xiaolin Zhou
-- Wenzhong Shi*
+- Wenzhong Shi
 - Anshu Zhang
 
 
