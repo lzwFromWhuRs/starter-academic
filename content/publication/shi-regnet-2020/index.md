@@ -1,7 +1,7 @@
 ---
 title: "RegNet: a neural network model for predicting regional desirability with VGI data"
 
-authors: ["Wenzhong Shi", admin , "Zhenlin An1", "Pengfei Chen"]
+authors: ["Wenzhong Shi", admin , "Zhenlin An", "Pengfei Chen"]
 # - Wenzhong Shi
 # - admin
 # - "*"
