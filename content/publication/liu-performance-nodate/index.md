@@ -1,10 +1,12 @@
 ---
-title: "Recommending attractive thematic regions by semantic community detection with multi-sourced VGI data"
+title: "Performance and robustness analysis of origin detection methods with geo-tagged social media data"
 authors:
 - admin
-- Xiaolin Zhou
-- Wenzhong Shi
 - Anshu Zhang
+- Yepeng Yao
+- Wenzhong Shi
+- Xiao Huang
+- Xiaoqi Shen
 
 
 # author_notes:
@@ -13,11 +15,11 @@ authors:
 
 
 
-date: "2019-09-01T00:00:00Z"
+date: "2020-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,11 +28,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Geographical Information Science*, 33(8): 1520-1544"
-publication_short: "*International Journal of Geographical Information Science*, 33(8): 1520-1544"
+publication: "*International Journal of Geographical Information Science*"
+publication_short: "*International Journal of Geographical Information Science* (accepted) "
 
 
-abstract: Attractive regions can be detected and recommended by investigating users’ online footprints. However, social media data suffers from short noisy text and lack of a-priori knowledge, impeding the usefulness of traditional semantic modelling methods. Another challenge is the need for an effective strategy for the selection/recommendation of candidate regions. To address these challenges, we propose a comprehensive workflow which combines semantic and location information of social media data to recommend thematic urban regions to users with specific interests. This workflow is novel in:(1) developing a data-driven geographic topic modelling method which utilizes the co-occurrence patterns of self-explanatory semantic information to detect semantic communities; (2) proposing a new recommendation strategy with the consideration of region’s spatial scale. The workflow was implemented using a real-world dataset and evaluation conducted at three different levels:semantic representativeness, topic identification and recommendation desirability. The evaluation showed that the semantic communities detected were internally consistent and externally differentiable and that the recommended regions had a high degree of desirability. The work has demonstrated the effectiveness of self-explanatory semantic information for geographic topic modelling and highlighted the importance of including region spatial scale into the model for an effective region recommending strategy.
+abstract: Various methods have been proposed to detect individual origins with geo-tagged social media. However, a common challenge regarding origin detection methods (ODMs) is that, due to the rare availability of ground truth, accuracies and robustness of ODMs haven’t been evaluated yet, undermining the reliability of relevant research. To address this challenge, in this work, we collect users’ real information from unstructured online content, and evaluate performances and robustness of ODMs at individual level. ODMs are evaluated in terms of two tasks:origin detection and differentiating local/tourist. Our results show ODMs achieve high accuracies in origin detection but may overestimate the number of tourists, bringing bias into results. Robustness analysis shows ODMs’ performances are affected by the degree of user activity and count of countries that user has visited, while insensitive to user gender. For temporal sensitivity, ODMs perform better over weekends and summertime than other periods, but the best performances are achieved with datasets covering whole time periods. To the best of our knowledge, this is the first time that performances and robustness of ODMs are evaluated at individual level. Valuable information can be obtained by knowing accuracies/bias of ODMs and how to achieve better performance with proper experiment settings.
 
 
 
@@ -45,7 +47,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.tandfonline.com/doi/full/10.1080/13658816.2018.1563298
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
