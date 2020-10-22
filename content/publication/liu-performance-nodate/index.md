@@ -1,6 +1,6 @@
 ---
 title: "Performance and robustness analysis of origin detection methods with geo-tagged social media data"
-authors: ["You Lin", "Yishen Wang", "Jianhui Wang", "Siqi Wang", "Di Shi"]
+authors: [" **Zhewei Liu** ", "Yishen Wang", "Jianhui Wang", "Siqi Wang", "Di Shi"]
 # - Liu Zhewei
 # - Zhang Anshu
 #date: "2009-12-23T00:00:00Z"
@@ -16,7 +16,7 @@ publishDate: "2009-06-26T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal of Geographical Information Science, 2020"
+publication: "*International Journal of Geographical Information Science*, 2020"
 publication_short: "International Journal of Geographical Information Science"
 
 selected: true
