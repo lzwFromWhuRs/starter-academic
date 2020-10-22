@@ -26,8 +26,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ISPRS International Journal of Geo-Information*,2018,7(12):481"
-publication_short: "*ISPRS International Journal of Geo-Information*,2018,7(12):481"
+publication: "*ISPRS International Journal of Geo-Information*, 7(12):481"
+publication_short: "*ISPRS International Journal of Geo-Information*, 7(12):481"
 
 
 abstract: Detecting events using social media data is important for timely emergency response and urban monitoring. Current studies primarily use semantic-based methods, in which “bursts” of certain semantic signals are detected to identify emerging events. Nevertheless, our consideration is that a social event will not only affect semantic signals but also cause irregular human mobility patterns. By introducing depictive features, such irregular patterns can be used for event detection. Consequently, in this paper, we develop a novel, comprehensive workflow for event detection by mining the geographical patterns of VGI. This workflow first uses data geographical topic modeling to detect the hashtag communities with VGI semantic data. Both global and local indicators are then constructed by introducing spatial autocorrelation measurements. We then adopt an outlier test and generate indicator maps to spatiotemporally identify the potential social events. This workflow was implemented using a real-world dataset (104,000 geo-tagged photos) and the evaluation was conducted both qualitatively and quantitatively. A set of experiments showed that the discovered semantic communities were internally consistent and externally differentiable, and the plausibility of the detected events was demonstrated by referring to the available ground truth. This study examined the feasibility of detecting events by investigating the geographical patterns of social media data and can be applied to urban knowledge retrieval.
