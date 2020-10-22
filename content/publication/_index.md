@@ -10,6 +10,10 @@ view: 4
 #   4 = Citation
 view: 4
 
+
+
+list_format: 3
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
