@@ -1,8 +1,11 @@
 ---
-title: "An example journal article"
+title: "Towards Detecting Social Events by Mining Geographical Patterns with VGI Data"
 authors:
 - admin
-- "Robert Ford"
+- Xiaolin Zhou
+- Wenzhong Shi*
+- Anshu Zhang
+
 
 # author_notes:
 # - "Equal contribution"
@@ -10,7 +13,7 @@ authors:
 
 
 
-date: "2015-09-01T00:00:00Z"
+date: "2018-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,16 +26,17 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*ISPRS International Journal of Geo-Information*,2018,7(12):481"
+publication_short: "*ISPRS International Journal of Geo-Information*,2018,7(12):481"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+abstract: Detecting events using social media data is important for timely emergency response and urban monitoring. Current studies primarily use semantic-based methods, in which “bursts” of certain semantic signals are detected to identify emerging events. Nevertheless, our consideration is that a social event will not only affect semantic signals but also cause irregular human mobility patterns. By introducing depictive features, such irregular patterns can be used for event detection. Consequently, in this paper, we develop a novel, comprehensive workflow for event detection by mining the geographical patterns of VGI. This workflow first uses data geographical topic modeling to detect the hashtag communities with VGI semantic data. Both global and local indicators are then constructed by introducing spatial autocorrelation measurements. We then adopt an outlier test and generate indicator maps to spatiotemporally identify the potential social events. This workflow was implemented using a real-world dataset (104,000 geo-tagged photos) and the evaluation was conducted both qualitatively and quantitatively. A set of experiments showed that the discovered semantic communities were internally consistent and externally differentiable, and the plausibility of the detected events was demonstrated by referring to the available ground truth. This study examined the feasibility of detecting events by investigating the geographical patterns of social media data and can be applied to urban knowledge retrieval.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+#- Source Themes
 featured: false
 
 # links:
@@ -49,10 +53,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -66,15 +70,21 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
+
+
+
+# {{% alert note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /alert %}}
+
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
+
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

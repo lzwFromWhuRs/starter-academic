@@ -11,7 +11,6 @@ view: 4
 view: 4
 
 
-# highlight_name: true
 
 
 list_format: 3
