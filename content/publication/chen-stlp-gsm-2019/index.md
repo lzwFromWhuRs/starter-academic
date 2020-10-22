@@ -1,10 +1,11 @@
 ---
-title: "Recommending attractive thematic regions by semantic community detection with multi-sourced VGI data"
+title: "STLP-GSM: a method to predict future locations of individuals based on geotagged social media data"
 authors:
-- admin
-- Xiaolin Zhou
+- Pengfei Chen
 - Wenzhong Shi*
-- Anshu Zhang
+- Xiaolin Zhou
+- admin
+- Xuandi Fu
 
 
 # author_notes:
@@ -26,11 +27,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*nternational Journal of Geographical Information Science*, 33(8): 1520-1544"
-publication_short: "*International Journal of Geographical Information Science*, 33(8): 1520-1544"
+publication: "*nternational Journal of Geographical Information Science*, 33(12): 2337-2362"
+publication_short: "*International Journal of Geographical Information Science*, 33(12): 2337-2362"
 
 
-abstract: Attractive regions can be detected and recommended by investigating users’ online footprints. However, social media data suffers from short noisy text and lack of a-priori knowledge, impeding the usefulness of traditional semantic modelling methods. Another challenge is the need for an effective strategy for the selection/recommendation of candidate regions. To address these challenges, we propose a comprehensive workflow which combines semantic and location information of social media data to recommend thematic urban regions to users with specific interests. This workflow is novel in:(1) developing a data-driven geographic topic modelling method which utilizes the co-occurrence patterns of self-explanatory semantic information to detect semantic communities; (2) proposing a new recommendation strategy with the consideration of region’s spatial scale. The workflow was implemented using a real-world dataset and evaluation conducted at three different levels:semantic representativeness, topic identification and recommendation desirability. The evaluation showed that the semantic communities detected were internally consistent and externally differentiable and that the recommended regions had a high degree of desirability. The work has demonstrated the effectiveness of self-explanatory semantic information for geographic topic modelling and highlighted the importance of including region spatial scale into the model for an effective region recommending strategy.
+abstract: An increasing number of social media users are becoming used to disseminate activities through geotagged posts. The massive available geotagged posts enable collections of users’ footprints over time and offer effective opportunities for mobility prediction. Using geotagged posts for spatio-temporal prediction of future location, however, is challenging. Previous studies either focus on next-place prediction or rely on dense data sources such as GPS data. Introduced in this article is a novel method for future location prediction of individuals based on geotagged social media data. This method employs the hierarchical density-based clustering algorithm with adaptive parameter selection to identify the regions frequently visited by a social media user. A multi-feature weighted Bayesian model is then developed to forecast users’ spatio-temporal locations by combining multiple factors affecting human mobility patterns. Further, an updating strategy is designed to efficiently adjust, over time, the proposed model to the dynamics in users’ mobility patterns. Based on two real-life datasets, the proposed approach outperforms a state-of-the-art method in prediction accuracy by up to 5.34% and 3.30%. Tests show prediction reliability is high with quality predictions, but low in the identification of erroneous locations.
 
 
 
@@ -45,7 +46,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.tandfonline.com/doi/full/10.1080/13658816.2018.1563298
+url_pdf: https://www.tandfonline.com/doi/full/10.1080/13658816.2019.1630630
 url_code: ''
 url_dataset: ''
 url_poster: ''
