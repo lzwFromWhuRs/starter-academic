@@ -42,9 +42,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jackie.zw.liu@connect.polyu.hk'  # For a direct email link, use "mailto:test@example.org".
-- icon: weibo
-  icon_pack: fab
-  link: https://weibo.com/u/2887403240
 - icon: github
   icon_pack: fab
   link: https://github.com/lzwFromWhuRs
