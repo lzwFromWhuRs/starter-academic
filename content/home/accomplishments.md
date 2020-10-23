@@ -26,7 +26,7 @@ date_format = "January 2006"
   # certificate_url = "https://www.coursera.org"
   date_start = "2015-06-01"
   date_end = ""
-  description = "10% students"
+  description = "TOP 10% students"
 
 [[item]]
   organization = "Wuhan University"
@@ -36,7 +36,7 @@ date_format = "January 2006"
   # certificate_url = "https://www.edx.org"
   date_start = "2015-05-01"
   date_end = ""
-  description = "10% students"
+  description = "TOP 10% students"
   
 [[item]]
   organization = "Wuhan University"
@@ -46,7 +46,7 @@ date_format = "January 2006"
   # certificate_url = "https://www.edx.org"
   date_start = "2014-09-01"
   date_end = ""
-  description = "10% students"
+  description = "TOP 10% students"
 
 [[item]]
   organization = "Wuhan University"
@@ -56,7 +56,7 @@ date_format = "January 2006"
   # certificate_url = "https://www.edx.org"
   date_start = "2013-09-01"
   date_end = ""
-  description = "10% students"
+  description = "TOP 10% students"
 
 
 [[item]]
@@ -77,6 +77,6 @@ date_format = "January 2006"
   # certificate_url = "https://www.edx.org"
   date_start = "2012-09-01"
   date_end = ""
-  description = "2% students"
+  description = "TOP 2% students"
 
 +++
