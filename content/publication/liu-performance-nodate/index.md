@@ -1,5 +1,5 @@
 ---
-title: "Performance and robustness analysis of origin detection methods with geo-tagged social media data"
+title: "Analysis of the performance and robustness of methods to detect base locations of individuals with geo-tagged social media data"
 authors:
 - admin
 - Anshu Zhang
@@ -32,7 +32,7 @@ publication: "*International Journal of Geographical Information Science*"
 publication_short: "*International Journal of Geographical Information Science* (accepted) "
 
 
-abstract: Various methods have been proposed to detect individual origins with geo-tagged social media. However, a common challenge regarding origin detection methods (ODMs) is that, due to the rare availability of ground truth, accuracies and robustness of ODMs haven’t been evaluated yet, undermining the reliability of relevant research. To address this challenge, in this work, we collect users’ real information from unstructured online content, and evaluate performances and robustness of ODMs at individual level. ODMs are evaluated in terms of two tasks:origin detection and differentiating local/tourist. Our results show ODMs achieve high accuracies in origin detection but may overestimate the number of tourists, bringing bias into results. Robustness analysis shows ODMs’ performances are affected by the degree of user activity and count of countries that user has visited, while insensitive to user gender. For temporal sensitivity, ODMs perform better over weekends and summertime than other periods, but the best performances are achieved with datasets covering whole time periods. To the best of our knowledge, this is the first time that performances and robustness of ODMs are evaluated at individual level. Valuable information can be obtained by knowing accuracies/bias of ODMs and how to achieve better performance with proper experiment settings.
+abstract: Various methods have been proposed to detect the base locations of individuals, with their geo-tagged social media data. However, a common challenge relating to base-location detection methods (BDMs) is that, the rare availability of ground-truth data impedes the method assessment of accuracy and robustness, thus undermining research validity and reliability. To address this challenge, we collect users’ information from unstructured online content, and evaluate both the performance and robustness of BDMs. The evaluation consists of two tasks, the detection of base locations and also the differentiation between local residents and tourists. The results show BDMs can achieve high accuracies in base-location detection but tend to overestimate the number of tourists. Evaluation conducted in this study, also shows that BDMs’ accuracy is subject to the intensity of user’s activities and number of countries visited by the user but are insensitive to user’s gender. Temporally, BDMs perform better during weekends and summertime than during other periods, but the best performances appear with datasets that cover the whole time periods (whole day, week, and year). To the best of knowledge, this study is the first work to evaluate the performance and robustness of BDMs at individual level.
 
 
 
