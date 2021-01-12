@@ -1,13 +1,12 @@
 ---
-title: "A Review of Human Mobility Research Based on Big Data and Its Implication for Smart City Development"
+title: "RegNet: a neural network model for predicting regional desirability with VGI data"
 
-authors:
-- Anqi Wang
-- Anshu Zhang
-- Edwin HW Chan
-- Wenzhong Shi
-- Xiaolin Zhou
-- admin
+authors: ["Wenzhong Shi", admin , "Zhenlin An", "Pengfei Chen"]
+# - Wenzhong Shi
+# - admin
+# - "*"
+# - Zhenlin An
+# - Pengfei Chen
 
 
 # author_notes:
@@ -16,11 +15,11 @@ authors:
 
 
 
-date: "2020-12-31T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-31T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,8 +28,8 @@ publishDate: "2020-12-31T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ISPRS International Journal of Geo-Information*"
-publication_short: "*ISPRS International Journal of Geo-Information*"
+publication: "*International Journal of Geographical Information Science*"
+publication_short: "*International Journal of Geographical Information Science*, 35(1): 175-192  (**corresponding author**, with supervisor being first author)"
 
 
 abstract: Volunteered geographic information can be used to predict regional desirability. A common challenge regarding previous works is that intuitive empirical models, which are inaccurate and bring in perceptual bias, are traditionally used to predict regional desirability. This results from the fact that the hidden interactions between user online check-ins and regional desirability haven’t been revealed and clearly modelled yet. To solve the problem, a novel neural network model ‘RegNet’ is proposed. The user check-in history is input into a neural network encoder structure firstly for redundancy reduction and feature learning. The encoded representation is then fed into a hidden-layer structure and the regional desirability is predicted. The proposed RegNet is data-driven and can adaptively model the unknown mappings from input to output, without presumed bias and prior knowledge. We conduct experiments with real-world datasets and demonstrate RegNet outperforms state-of-the-art methods in terms of ranking quality and prediction accuracy of rating. Additionally, we also examine how the structure of encoder affects RegNet performance and suggest on choosing proper sizes of encoded representation. This work demonstrates the effectiveness of data-driven methods in modelling the hidden unknown relationships and achieving a better performance over traditional empirical methods.
