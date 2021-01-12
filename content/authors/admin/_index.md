@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Geographical Information Science
     institution: The Hong Kong Polytechnic University
-    year: 2020 (expected)
+    year: 2021 (expected)
   - course: B.S. in Remote Sensing (RS) and Geographical Information Science (GIS)
     institution: Wuhan University
     year: 2015
