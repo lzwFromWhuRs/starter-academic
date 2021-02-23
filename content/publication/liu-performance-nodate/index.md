@@ -28,8 +28,8 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Geographical Information Science*"
-publication_short: "*International Journal of Geographical Information Science* (accepted) "
+publication: "*International Journal of Geographical Information Science*, 35(3): 609-627"
+publication_short: "*International Journal of Geographical Information Science* , 35(3): 609-627"
 
 
 abstract: Various methods have been proposed to detect the base locations of individuals, with their geo-tagged social media data. However, a common challenge relating to base-location detection methods (BDMs) is that, the rare availability of ground-truth data impedes the method assessment of accuracy and robustness, thus undermining research validity and reliability. To address this challenge, we collect users’ information from unstructured online content, and evaluate both the performance and robustness of BDMs. The evaluation consists of two tasks, the detection of base locations and also the differentiation between local residents and tourists. The results show BDMs can achieve high accuracies in base-location detection but tend to overestimate the number of tourists. Evaluation conducted in this study, also shows that BDMs’ accuracy is subject to the intensity of user’s activities and number of countries visited by the user but are insensitive to user’s gender. Temporally, BDMs perform better during weekends and summertime than during other periods, but the best performances appear with datasets that cover the whole time periods (whole day, week, and year). To the best of knowledge, this study is the first work to evaluate the performance and robustness of BDMs at individual level.
