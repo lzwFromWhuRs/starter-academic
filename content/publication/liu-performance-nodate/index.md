@@ -47,7 +47,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: https://www.tandfonline.com/doi/full/10.1080/13658816.2020.1847288
 url_code: ''
 url_dataset: ''
 url_poster: ''
