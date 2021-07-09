@@ -33,7 +33,27 @@ publication_short: "*Annals of the American Association of Geographers*"
 
 
 
-abstract: Various methods have been proposed to detect the base locations of individuals, with their geo-tagged social media data. However, a common challenge relating to base-location detection methods (BDMs) is that, the rare availability of ground-truth data impedes the method assessment of accuracy and robustness, thus undermining research validity and reliability. To address this challenge, we collect users’ information from unstructured online content, and evaluate both the performance and robustness of BDMs. The evaluation consists of two tasks, the detection of base locations and also the differentiation between local residents and tourists. The results show BDMs can achieve high accuracies in base-location detection but tend to overestimate the number of tourists. Evaluation conducted in this study, also shows that BDMs’ accuracy is subject to the intensity of user’s activities and number of countries visited by the user but are insensitive to user’s gender. Temporally, BDMs perform better during weekends and summertime than during other periods, but the best performances appear with datasets that cover the whole time periods (whole day, week, and year). To the best of knowledge, this study is the first work to evaluate the performance and robustness of BDMs at individual level.
+abstract: 
+
+The coronavirus disease 2019 (COVID-19) has exposed and, to some degree, exacerbated social inequity in
+the United States. This study reveals the correlation between demographic and socioeconomic variables and
+home-dwelling time records derived from large-scale mobile phone location tracking data at the U.S. census
+block group (CBG) level in the twelve most populated Metropolitan Statistical Areas (MSAs) and further
+investigates the contribution of these variables to the disparity in home-dwelling time that reflects the
+compliance with stay-at-home orders via machine learning approaches. We find statistically significant
+correlations between the increase in home-dwelling time (rHDT) and variables that describe economic status
+in all MSAs, which is further confirmed by the optimized random forest models, because median household
+income and percentage of high income are the two most important variables in predicting rHDT. The
+partial dependence between median household income and rHDT reveals that the contribution of income to
+rHDT is place dependent, nonlinear, and different given varying income intervals. Our study reveals the
+luxury nature of stay-at-home orders with which lower income groups cannot afford to comply. Such
+disparity in responses under stay-at-home orders reflects the long-standing social inequity issues in the
+United States, potentially causing unequal exposure to COVID-19 that disproportionately affects vulnerable
+populations. We must confront systemic social inequity issues and call for a high-priority assessment of the
+long-term impact of COVID-19 on geographically and socially disadvantaged groups.
+
+
+
 
 
 
