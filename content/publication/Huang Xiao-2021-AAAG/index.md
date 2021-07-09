@@ -33,27 +33,7 @@ publication_short: "*Annals of the American Association of Geographers*"
 
 
 
-abstract: 
-
-The coronavirus disease 2019 (COVID-19) has exposed and, to some degree, exacerbated social inequity in
-the United States. This study reveals the correlation between demographic and socioeconomic variables and
-home-dwelling time records derived from large-scale mobile phone location tracking data at the U.S. census
-block group (CBG) level in the twelve most populated Metropolitan Statistical Areas (MSAs) and further
-investigates the contribution of these variables to the disparity in home-dwelling time that reflects the
-compliance with stay-at-home orders via machine learning approaches. We find statistically significant
-correlations between the increase in home-dwelling time (rHDT) and variables that describe economic status
-in all MSAs, which is further confirmed by the optimized random forest models, because median household
-income and percentage of high income are the two most important variables in predicting rHDT. The
-partial dependence between median household income and rHDT reveals that the contribution of income to
-rHDT is place dependent, nonlinear, and different given varying income intervals. Our study reveals the
-luxury nature of stay-at-home orders with which lower income groups cannot afford to comply. Such
-disparity in responses under stay-at-home orders reflects the long-standing social inequity issues in the
-United States, potentially causing unequal exposure to COVID-19 that disproportionately affects vulnerable
-populations. We must confront systemic social inequity issues and call for a high-priority assessment of the
-long-term impact of COVID-19 on geographically and socially disadvantaged groups.
-
-
-
+abstract: The coronavirus disease 2019 (COVID-19) has exposed and, to some degree, exacerbated social inequity in the United States. This study reveals the correlation between demographic and socioeconomic variables and home-dwelling time records derived from large-scale mobile phone location tracking data at the U.S. census block group (CBG) level in the twelve most populated Metropolitan Statistical Areas (MSAs) and further investigates the contribution of these variables to the disparity in home-dwelling time that reflects the compliance with stay-at-home orders via machine learning approaches. We find statistically significant correlations between the increase in home-dwelling time (∇HDT) and variables that describe economic status in all MSAs, which is further confirmed by the optimized random forest models, because median household income and percentage of high income are the two most important variables in predicting ∇HDT. The partial dependence between median household income and ∇HDT reveals that the contribution of income to ∇HDT is place dependent, nonlinear, and different given varying income intervals. Our study reveals the luxury nature of stay-at-home orders with which lower income groups cannot afford to comply. Such disparity in responses under stay-at-home orders reflects the long-standing social inequity issues in the United States, potentially causing unequal exposure to COVID-19 that disproportionately affects vulnerable populations. We must confront systemic social inequity issues and call for a high-priority assessment of the long-term impact of COVID-19 on geographically and socially disadvantaged groups.
 
 
 
