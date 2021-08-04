@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Zhewei LIU (刘哲维) is a phd candidate from The Hong Kong Polytechnic University, with research interest in GeoAI, spatial big data analytics, human mobility, and a broader application of artificial intelligence in geography. Besides research, he is also very enthusiastic about reading and fitness. He holds the opinion that few things can not be attained by combining konwledge and self-discipline.
+Zhewei LIU (刘哲维) is a phd graduate from The Hong Kong Polytechnic University, with research interest in GeoAI, spatial big data analytics, human mobility, and a broader application of artificial intelligence in geography. Besides research, he is also very enthusiastic about reading and fitness. He holds the opinion that few things can not be attained by combining konwledge and self-discipline.
