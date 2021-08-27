@@ -1,10 +1,10 @@
 ---
 title: "Detecting home countries of social media users with machine-learned ranking approach: a case study in Hong Kong"
+
 authors:
 - admin
 - Wenzhong Shi
 - Anshu Zhang
-
 
 # author_notes:
 # - "Equal contribution"
@@ -25,11 +25,13 @@ publishDate: "2021-08-03T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Applied Geography*, accepted"
-publication_short: "*Applied Geography*, accepted"
+publication: "*Applied Geography*, 134 (2021): 102532"
+publication_short: "*Applied Geography*, 134 (2021): 102532"
 
 
-abstract: Inferring individual’s home country from geotagged footprints is widely applied in human mobility research. Previous studies mainly used simple empirical methods that are based on intuitive hypothetical assumptions. Because the exact relationships between users’ home countries and geotagged footprints haven’t be quantitatively revealed, empirical methods based on human intuitions and past experiences are used for rough approximation. In this study, we propose a machine-learning approach for the task of home country detection, by formulating the task as a query-ranking problem and using a machine-learned ranking model for problem solving. The used model is a Multiple Additive Regression Trees framework that aims to rank regions in specific orders and the region ranked first is designated as the home country. Our approach is data-driven and can adaptively learn the unknown function from input (geotagged footprints) to output (user’s home country), thus alleviating the bias introduced by previous empirical methods. We conduct experiments with real-world datasets, and results demonstrate that our approach achieves better performance than previous empirical methods. The model’s parameter sensitivity is also investigated, and results show that user’s origin may be a factor affecting the approach performance and that our approach achieves robust good performance with various parameter settings.
+
+abstract: Along with the increase of big data and the advancement of technologies, comprehensive data-driven knowledge of urban systems is becoming more attainable, yet the connection between big-data research and its application e.g., in smart city development, is not clearly articulated. Focusing on Human Mobility, one of the most frequently investigated applications of big data analytics, a framework for linking international academic research and city-level management policy was established and applied to the case of Hong Kong. Literature regarding human mobility research using big data are reviewed. These studies contribute to (1) discovering the spatial-temporal phenomenon, (2) identifying the difference in human behaviour or spatial attributes, (3) explaining the dynamic of mobility, and (4) applying to city management. Then, the application of the research to smart city development are scrutinised based on email queries to various governmental departments in Hong Kong. The identified challenges include data isolation, data unavailability, gaming between costs and quality of data, limited knowledge derived from rich data, as well as estrangement between public and private sectors. With further improvement in the practical value of data analytics and the utilization of data sourced from multiple sectors, paths to achieve smarter cities from policymaking perspectives are highlighted.
+
 
 
 
@@ -40,10 +42,10 @@ tags:
 #- Source Themes
 featured: false
 
-links: https://www.sciencedirect.com/science/article/pii/S014362282100148X?dgcid=author
+# links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: https://www.sciencedirect.com/science/article/pii/S014362282100148X
 url_code: ''
 url_dataset: ''
 url_poster: ''
