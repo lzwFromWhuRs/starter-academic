@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PHD Candidate
+role: PHD
 
 # Organizations/Affiliations
 organizations:
