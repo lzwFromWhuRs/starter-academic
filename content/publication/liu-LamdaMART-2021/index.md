@@ -39,7 +39,7 @@ abstract: Inferring individual's home country from geotagged footprints is widel
 
 tags:
 #- Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
