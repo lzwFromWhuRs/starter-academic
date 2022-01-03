@@ -17,6 +17,13 @@
 
 
 [[main]]
+  name = "Featured Publications"
+  url = "#featured"
+  weight = 10
+
+
+
+[[main]]
   name = "Awards"
   url = "#accomplishments"
   weight = 40
