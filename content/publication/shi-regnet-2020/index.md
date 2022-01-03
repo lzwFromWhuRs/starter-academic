@@ -42,7 +42,7 @@ abstract: Volunteered geographic information can be used to predict regional des
 
 tags:
 #- Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""

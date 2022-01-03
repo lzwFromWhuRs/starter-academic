@@ -42,7 +42,7 @@ abstract: Various methods have been proposed to detect the base locations of ind
 
 tags:
 #- Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""

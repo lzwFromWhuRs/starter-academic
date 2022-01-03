@@ -42,7 +42,7 @@ abstract: The coronavirus disease 2019 (COVID-19) has exposed and, to some degre
 
 tags:
 #- Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""

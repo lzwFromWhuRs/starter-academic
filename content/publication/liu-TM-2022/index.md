@@ -38,7 +38,7 @@ abstract: In contrast to traditional surveys collecting tourists’ stated respo
 
 tags:
 #- Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""

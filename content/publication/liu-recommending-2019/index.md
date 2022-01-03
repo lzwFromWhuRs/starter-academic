@@ -40,7 +40,7 @@ abstract: Attractive regions can be detected and recommended by investigating us
 
 tags:
 #- Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
