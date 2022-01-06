@@ -24,7 +24,7 @@ subtitle = ""
   # Show a "See all pages" link underneath the featured content?
   link_to_archive = false
 
-  # Filter posts by a taxonomy term.
+  # Filter posts by a taxonomy term. 
   [content.filters]
     tag = ""
     category = ""

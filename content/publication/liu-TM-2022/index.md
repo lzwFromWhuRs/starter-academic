@@ -27,8 +27,8 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Tourism Management*, accepted"
-publication_short: "*Tourism Management*, accepted"
+publication: "*Tourism Management*, 90"
+publication_short: "*Tourism Management*, 90"
 
 
 abstract: In contrast to traditional surveys collecting tourists’ stated responses, location-based social network data provide information about tourists’ observed behaviours. This study proposes a methodology to categorise cultural tourism attractions based on tourists’ preferences detected by their citywide travel trajectories. It was applied to Central, a district in Hong Kong, by using Instagram data of tourists who geotagged certain attraction(s) in the study area from May 2018 to April 2020. Four categories were identified through cluster analysis, and a typology of cultural tourism attractions was proposed based on the importance of historical and contemporary features. The results show significant differences among the clusters and within Hong Kong’s short-haul markets. Japanese tourists prefer ‘Heritage centres’ and ‘Art galleries/Performance venues’ while tourists from Thailand prefer ‘Historic sites’ and ‘Street markets’. The study contributes an innovative approach to differentiate cultural tourism attractions, which is helpful in targeting potential tourists.
@@ -43,7 +43,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1016/j.tourman.2022.104488'
 url_code: ''
 url_dataset: ''
 url_poster: ''
