@@ -67,4 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Zhewei LIU (刘哲维) is a PostDoc researcher from The Hong Kong Polytechnic University, where he got the PhD degree in 2021. His research interests mainly include GeoAI, spatial big data analytics, human mobility, and a broader application of artificial intelligence in geography. Besides research, he is also enthusiastic about reading and fitness. He holds the opinion that few things can not be attained by combining konwledge and self-discipline.
+Zhewei LIU (刘哲维) is a Research Associate from The Hong Kong Polytechnic University, where he got the PhD degree in 2021. His research interests mainly include GeoAI, spatial big data analytics, human mobility, and a broader application of artificial intelligence in geography and urban analytics. Besides research, he is also enthusiastic about reading and fitness. He holds the opinion that few things can not be attained by combining konwledge and self-discipline.
