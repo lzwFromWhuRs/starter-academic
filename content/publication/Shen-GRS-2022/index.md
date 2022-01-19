@@ -28,7 +28,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*GIScience & Remote Sensing*"
-publication_short: "*IGIScience & Remote Sensing*"
+publication_short: "*GIScience & Remote Sensing*"
 
 
 
