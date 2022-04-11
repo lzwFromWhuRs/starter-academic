@@ -3,7 +3,7 @@ title: "Categorisation of cultural tourism attractions by tourist preference usi
 
 authors:
 - admin
-- Anshu Zhang
+- Anqi Wang
 - Karin Weber
 - Edwin H.W. Chan
 - Wenzhong Shi
