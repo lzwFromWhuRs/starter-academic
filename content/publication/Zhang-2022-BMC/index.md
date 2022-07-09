@@ -35,13 +35,7 @@ publication_short: "*BMC Infectious Diseases*"
 
 
 
-abstract:  Background:Motivated by the need for precise epidemic control and epidemic-resilient urban design, this study aims to reveal the joint and interactive associations between urban socioeconomic, density, connectivity, and functionality characteristics and the COVID-19 spread within a high-density city. Many studies have been made on the associations between urban characteristics and the COVID-19 spread, but there is a scarcity of such studies in the intra-city scale and as regards complex joint and interactive associations by using advanced machine learning approaches.
-
-Results
-The first two waves of COVID-19 were found mainly characterized by higher-socioeconomic-status (SES) imported cases. The third-wave outbreak concentrated in densely populated and usually lower-SES neighborhoods, showing a high risk of within-neighborhood virus transmissions jointly contributed by high density and unfavorable SES. Starting with a super-spread which considerably involved high-SES population, the fourth-wave outbreak showed a stronger link to cross-neighborhood transmissions driven by urban functionality. Then the outbreak diffused to lower-SES neighborhoods and interactively aggravated the within-neighborhood pandemic transmissions. Association was also found between a higher SES and a slightly longer waiting period (i.e., the period from symptom onset to diagnosis of symptomatic cases), which further indicated the potential contribution of higher-SES population to the pandemic transmission.
-
-Conclusions
-The results of this study may provide references to developing precise anti-pandemic measures for specific neighborhoods and virus transmission routes. The study also highlights the essentiality of reliving co-locating overcrowdedness and unfavorable SES for developing epidemic-resilient compact cities, and the higher obligation of higher-SES population to conform anti-pandemic policies.
+abstract:  
 
 
 
