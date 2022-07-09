@@ -1,0 +1,103 @@
+---
+title: "The fine-scale associations between socioeconomic status, density, functionality, and spread of COVID-19 within a high-density city"
+
+authors:
+- Anshu Zhang
+- Wenzhong Shi
+- Chengzhuo Tong
+- Xiaosheng Zhu
+- Yijia Liu
+- admin
+- Yepeng Yao
+- Zhicheng Shi
+
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+
+
+
+date: "2022-03-23T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2021-03-23T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
+
+# Publication name and optional abbreviated publication name.
+publication: "*BMC Infectious Diseases*"
+publication_short: "*BMC Infectious Diseases*"
+
+
+
+abstract:  Background:Motivated by the need for precise epidemic control and epidemic-resilient urban design, this study aims to reveal the joint and interactive associations between urban socioeconomic, density, connectivity, and functionality characteristics and the COVID-19 spread within a high-density city. Many studies have been made on the associations between urban characteristics and the COVID-19 spread, but there is a scarcity of such studies in the intra-city scale and as regards complex joint and interactive associations by using advanced machine learning approaches.
+
+Results
+The first two waves of COVID-19 were found mainly characterized by higher-socioeconomic-status (SES) imported cases. The third-wave outbreak concentrated in densely populated and usually lower-SES neighborhoods, showing a high risk of within-neighborhood virus transmissions jointly contributed by high density and unfavorable SES. Starting with a super-spread which considerably involved high-SES population, the fourth-wave outbreak showed a stronger link to cross-neighborhood transmissions driven by urban functionality. Then the outbreak diffused to lower-SES neighborhoods and interactively aggravated the within-neighborhood pandemic transmissions. Association was also found between a higher SES and a slightly longer waiting period (i.e., the period from symptom onset to diagnosis of symptomatic cases), which further indicated the potential contribution of higher-SES population to the pandemic transmission.
+
+Conclusions
+The results of this study may provide references to developing precise anti-pandemic measures for specific neighborhoods and virus transmission routes. The study also highlights the essentiality of reliving co-locating overcrowdedness and unfavorable SES for developing epidemic-resilient compact cities, and the higher obligation of higher-SES population to conform anti-pandemic policies.
+
+
+
+# Summary. An optional shortened abstract.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags:
+#- Source Themes
+featured: true
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-022-07274-w
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+#   focal_point: ""
+#   preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+# slides: example
+
+
+
+# {{% alert note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /alert %}}
+
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
+
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+
+---
+
+
