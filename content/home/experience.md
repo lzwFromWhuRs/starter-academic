@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company = "The Hong Kong Polytechnic University"
   company_url = "https://www.polyu.edu.hk/en/lsgi/"
   location = "Hong Kong, PRC"
-  date_start = "2021-02-01"s
+  date_start = "2021-02-01"
   date_end = "2022-10-31"
   # description = """Taught electronic engineering and researched semiconductor physics."""
 
