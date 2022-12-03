@@ -1,12 +1,11 @@
 ---
-title: "Measuring Chinese cities’ economic development with mobile application usage"
+title: "A deep-learning approach for modelling pedestrian movement uncertainty in large-scale indoor areas"
 
 authors:
+- Wenzhong Shi
+- Yue Yu
 - admin
-- Jianxiao Liu
-- Xiao Huang
-- Erchen Zhang
-- Bi Yu Chen
+
 
 # author_notes:
 # - "Equal contribution"
@@ -18,7 +17,7 @@ date: "2022-12-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-12-23T00:00:00Z"
+publishDate: "2021-03-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,8 +26,8 @@ publishDate: "2021-12-23T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Geographical Sciences*"
-publication_short: "*Journal of Geographical Sciences*"
+publication: "*International Journal of Applied Earth Observations and Geoinformation*"
+publication_short: "*International Journal of Applied Earth Observations and Geoinformation, (**corresponding author**, with supervisor being first author)"
 
 
 
@@ -41,7 +40,7 @@ abstract:
 
 tags:
 #- Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
