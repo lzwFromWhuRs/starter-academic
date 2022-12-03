@@ -27,7 +27,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*International Journal of Applied Earth Observations and Geoinformation*"
-publication_short: "International Journal of Applied Earth Observations and Geoinformation, (**corresponding author**, with supervisor being first author)"
+publication_short: "International Journal of Applied Earth Observations and Geoinformation"
 
 
 
