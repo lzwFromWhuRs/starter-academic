@@ -35,10 +35,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Associate"
   company = "The Hong Kong Polytechnic University"
-  company_url = ""
-  location = "Hong Kong"
-  date_start = "2021-02-01"
+  company_url = "https://www.polyu.edu.hk/en/lsgi/"
+  location = "Hong Kong, PRC"
+  date_start = "2021-02-01"s
   date_end = "2022-10-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  # description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
