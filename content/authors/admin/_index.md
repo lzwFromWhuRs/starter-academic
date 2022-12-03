@@ -14,8 +14,8 @@ role: PhD
 
 # Organizations/Affiliations
 organizations:
-- name: The Hong Kong Polytechnic University
-  url: "https://www.polyu.edu.hk/en/"
+- name: Urban Resilience.AI Lab, Texas A&M University
+  url: "https://www.urbanresilience.ai/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include spatial big data analytics, volunteered geographic information, human mobility.
