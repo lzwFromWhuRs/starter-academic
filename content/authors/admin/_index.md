@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhewei (Jacky) Liu
+title: Zhewei Liu
 
 # Username (this should match the folder name)
 authors:

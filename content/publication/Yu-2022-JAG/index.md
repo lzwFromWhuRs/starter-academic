@@ -1,5 +1,5 @@
 ---
-title: "A LSTM-based approach for modelling the movement uncertainty of indoor trajectories with mobile sensing data"
+title: "A deep-learning approach for modelling pedestrian movement uncertainty in large-scale indoor areas"
 
 authors:
 - Wenzhong Shi
@@ -13,7 +13,7 @@ authors:
 
 
 
-date: "2022-03-23T00:00:00Z"
+date: "2022-12-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ publication_short: "*International Journal of Applied Earth Observations and Geo
 
 
 
-abstract:  Individuals’ indoor trajectories can be reconstructed with sensing data for indoor navigation. However, the movement uncertainty of such reconstructed indoor trajectories has seldom been modelled before, which seriously affects the reliability of indoor trajectory analytics. Previous methods for movement uncertainty modelling mainly focus on outdoor trajectories, and are based on various user-specified assumptions, which may not hold effective for indoor environments and hence introduce inaccuracy in determining sizes of uncertain regions for indoor trajectories. To address above challenge, this research formulates uncertainty modelling of indoor trajectories as a sequence prediction problem and proposes a novel data-driven method. We construct input features by considering each step’s stride and heading angle. The constructed features are input into a LSTM-based neural network, and pointwise deviations of trajectories are predicted. Our model is data-driven and can learn the unknow mapping from each step’s feature to its corresponding uncertainty via neural network training, thus avoiding errors introduced by inaccurate assumptions of previous methods. We conduct experiments with real-world datasets, and demonstrate our method robustly outperforms previous models, regarding balancing preciseness (over 0.15/m2 density of covered ground-truth points) and completeness (over 80% ground-truth trajectory coverage). This paper provides a novel approach for generating uncertain regions by predicting pointwise deviations, and can benefit related applications of trajectory mining.
+abstract: 
 
 
 
@@ -40,12 +40,12 @@ abstract:  Individuals’ indoor trajectories can be reconstructed with sensing 
 
 tags:
 #- Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0303243422000848#!
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
