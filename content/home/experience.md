@@ -39,10 +39,10 @@ date_format = "Jan 2006"
   location = "Hong Kong, PRC"
   date_start = "2021-02-01"
   date_end = "2022-10-31"
-  # description = """Taught electronic engineering and researched semiconductor physics."""
   description = """
   Responsibilities include:
   
   * Research on GeoAI, spatial big data and human mobility
   * Developing novel models for urban analytics
+  """
 +++
