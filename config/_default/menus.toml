@@ -9,6 +9,11 @@
   weight = 10
 
 
+[[main]]
+  name = "Experiences"
+  url = "#experience"
+  weight = 15
+
 
 [[main]]
   name = "Featured Publications"
