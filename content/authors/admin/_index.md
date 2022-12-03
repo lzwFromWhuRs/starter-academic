@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhewei Liu
+title: Zhewei (Jacky) Liu
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,11 @@ organizations:
 bio: My research interests include spatial big data analytics, volunteered geographic information, human mobility.
 
 interests:
+- Urban resiliece
 - GeoAI
-- spatial big data analytics
-- human mobility
+- Environmental justice
+- Spatial big data analytics
+- Human mobility
 
 education:
   courses:
@@ -67,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Zhewei LIU (刘哲维) is a Research Associate from The Hong Kong Polytechnic University, where he got the PhD degree in 2021. His research interests mainly include GeoAI, spatial big data analytics, human mobility, and a broader application of artificial intelligence in geography and urban analytics. Besides research, he is also enthusiastic about reading and fitness. He holds the opinion that few things can not be attained by combining konwledge and self-discipline.
+Zhewei LIU (刘哲维) is a Postdoctoral Researcher at Texas A&M University. He got his PhD degree in GIS from the Hong Kong Polytechnic University. His research interests mainly include GeoAI, spatial big data analytics, human mobility, and a broader application of artificial intelligence in urban resiliece, environmental justice and geography. Besides research, he is also enthusiastic about reading and working out. He holds the opinion that few things can not be attained by combining konwledge and self-discipline.
