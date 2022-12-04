@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jackie.zw.liu@connect.polyu.hk'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:zheweiliu@tamu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/lzwFromWhuRs
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jackie.zw.liu@connect.polyu.hk"
+email: "zheweiliu@tamu.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
