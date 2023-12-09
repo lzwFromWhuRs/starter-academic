@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: # Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Urban Resilience.AI Lab, Texas A&M University
-  url: "https://www.urbanresilience.ai/"
+- name: #Urban Resilience.AI Lab, Texas A&M University
+  url: # "https://www.urbanresilience.ai/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include spatial big data analytics, volunteered geographic information, human mobility.
