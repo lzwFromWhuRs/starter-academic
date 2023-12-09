@@ -47,7 +47,7 @@ social:
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/lzwFromWhuRs
-- icon: github
+- icon: google-scholar
   icon_pack: fab
   link: https://scholar.google.com/citations?user=_Fnsb2MAAAAJ&hl=en
 
