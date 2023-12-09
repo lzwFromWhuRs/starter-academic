@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "zheweiliu@tamu.edu"
+email: "lzwgre@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -69,4 +69,4 @@ user_groups:
 - Visitors
 ---
 
-Zhewei LIU (刘哲维) is a Postdoctoral Researcher at Texas A&M University. He got his PhD degree in GIS from the Hong Kong Polytechnic University. His research interests mainly include GeoAI, spatial big data analytics, human mobility, and a broader application of artificial intelligence in urban resilience, environmental justice and geography. Besides research, he is also enthusiastic about reading and working out. He holds the opinion that few things can not be attained by combining konwledge and self-discipline.
+Zhewei LIU (刘哲维) got his PhD degree in GIS from the Hong Kong Polytechnic University. His research interests mainly include GeoAI, spatial big data analytics, human mobility, and a broader application of artificial intelligence in urban resilience, environmental justice and geography. Besides research, he is also enthusiastic about reading and working out. He holds the opinion that few things can not be attained by combining konwledge and self-discipline.
