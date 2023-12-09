@@ -51,7 +51,7 @@ social:
   icon_pack: ai
   link: files/LIUZhewei_CV.pdf
 - icon:google-scholar
-  icon_pack: ai
+  icon_pack: fab
   link: https://scholar.google.com/citations?user=_Fnsb2MAAAAJ&hl=en 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
