@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.urbanresilience.ai/"
   location = "College Station, Texas, U.S"
   date_start = "2022-12-01"
-  date_end = ""
+  date_end = "2023-12-01"
   description = """
   Responsibilities include:
   
