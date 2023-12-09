@@ -50,7 +50,7 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/LIUZhewei_CV.pdf
-- icon:googlescholar
+- icon:google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_Fnsb2MAAAAJ&hl=en 
 # Link to a PDF of your resume/CV from the About widget.
