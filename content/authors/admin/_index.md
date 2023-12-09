@@ -44,13 +44,13 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:zheweiliu@tamu.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/lzwFromWhuRs
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/lzwFromWhuRs
 - icon: cv
   icon_pack: ai
   link: files/LIUZhewei_CV.pdf
-- icon:google-scholar
+- icon: google-scholar
   icon_pack: fab
   link: https://scholar.google.com/citations?user=_Fnsb2MAAAAJ&hl=en 
 # Link to a PDF of your resume/CV from the About widget.
