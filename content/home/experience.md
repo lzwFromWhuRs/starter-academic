@@ -17,6 +17,14 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+[[experience]]
+  title = "Schmit AI Postdoctoral Fellow"
+  company = "University of Toronto"
+  date_start = "2024-09-15"
+  date_end = ""
+
 [[experience]]
   title = "Postdoctoral Researcher"
   company = "Texas A&M University"
