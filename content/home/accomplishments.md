@@ -29,7 +29,7 @@ date_format = "January 2006"
   date_start = "2024-01-17"
   date_end = ""
   description = "Selected as Principal Investigator for the National Science Foundation Small Business Innovation Research (NSF SBIR) program with a grant of $275,000.00."
-
+<!-- 
 
 [[item]]
   organization = "Wuhan University"
@@ -39,7 +39,7 @@ date_format = "January 2006"
   # certificate_url = "https://www.coursera.org"
   date_start = "2015-06-01"
   date_end = ""
-  description = "TOP 10% students"
+  description = "TOP 10% students" -->
 
 [[item]]
   organization = "Wuhan University"
