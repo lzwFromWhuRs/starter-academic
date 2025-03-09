@@ -41,7 +41,7 @@ date_format = "January 2006"
   date_end = ""
   description = "TOP 10% students"
 
-<!-- [[item]]
+[[item]]
   organization = "Wuhan University"
   organization_url = "https://en.whu.edu.cn/"
   title = "Annual Outstanding Students of Wuhan University, three times (2012, 2013, 2014)"
@@ -90,6 +90,6 @@ date_format = "January 2006"
   # certificate_url = "https://www.edx.org"
   date_start = "2012-09-01"
   date_end = ""
-  description = "TOP 2% students" -->
+  description = "TOP 2% students"
 
 +++
