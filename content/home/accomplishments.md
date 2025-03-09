@@ -31,4 +31,14 @@ date_format = "January 2006"
   description = "Selected as Principal Investigator for the National Science Foundation Small Business Innovation Research (NSF SBIR) program with a grant of $275,000.00."
 
 
+[[item]]
+  organization = "NSF Small Business Innovation Research (SBIR)"
+  organization_url = "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2335269"
+  title = "Principal Investigator"
+  # url = ""
+  # certificate_url = ""
+  date_start = "2024-01-17"
+  date_end = ""
+  description = "Selected as Principal Investigator for the National Science Foundation Small Business Innovation Research (NSF SBIR) program with a grant of $275,000.00."
+
 +++
