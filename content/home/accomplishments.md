@@ -29,67 +29,6 @@ date_format = "January 2006"
   date_start = "2024-01-17"
   date_end = ""
   description = "Selected as Principal Investigator for the National Science Foundation Small Business Innovation Research (NSF SBIR) program with a grant of $275,000.00."
-<!-- 
 
-[[item]]
-  organization = "Wuhan University"
-  organization_url = "https://en.whu.edu.cn/"
-  title = "Outstanding Graduates of Wuhan University"
-  # url = ""
-  # certificate_url = "https://www.coursera.org"
-  date_start = "2015-06-01"
-  date_end = ""
-  description = "TOP 10% students" -->
-
-[[item]]
-  organization = "Wuhan University"
-  organization_url = "https://en.whu.edu.cn/"
-  title = "Annual Outstanding Students of Wuhan University, three times (2012, 2013, 2014)"
-  # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  # certificate_url = "https://www.edx.org"
-  date_start = "2015-05-01"
-  date_end = ""
-  description = "TOP 10% students"
-  
-[[item]]
-  organization = "Wuhan University"
-  organization_url = "https://en.whu.edu.cn/"
-  title = "Second Honor Scholarship of Wuhan University, 2014"
-  # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  # certificate_url = "https://www.edx.org"
-  date_start = "2014-09-01"
-  date_end = ""
-  description = "TOP 10% students"
-
-[[item]]
-  organization = "Wuhan University"
-  organization_url = "https://en.whu.edu.cn/"
-  title = "Second Honor Scholarship of Wuhan University,2013"
-  # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  # certificate_url = "https://www.edx.org"
-  date_start = "2013-09-01"
-  date_end = ""
-  description = "TOP 10% students"
-
-
-[[item]]
-  organization = "Wuhan University"
-  organization_url = "https://en.whu.edu.cn/"
-  title = "Xijie Special Scholarship"
-  # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  # certificate_url = "https://www.edx.org"
-  date_start = "2012-09-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Wuhan University"
-  organization_url = "https://en.whu.edu.cn/"
-  title = "First Honor Scholarship of Wuhan University, 2012"
-  # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  # certificate_url = "https://www.edx.org"
-  date_start = "2012-09-01"
-  date_end = ""
-  description = "TOP 2% students"
 
 +++
